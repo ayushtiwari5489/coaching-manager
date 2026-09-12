@@ -1,0 +1,7 @@
+# Vercel build input – never upload secrets or extraneous folders.
+.env
+.env.*
+backups/
+scripts/
+supabase/
+*.tsbuildinfo
